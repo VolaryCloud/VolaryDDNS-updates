@@ -40,7 +40,9 @@ Please ensure your code adheres to best practices and is thoroughly tested. Code
 
 ## License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the script as long as you retain the license and copyright notice.
+This project is licensed under a custom license.
+
+You are permitted to use and modify the script for personal, non-commercial purposes only. Redistribution, publishing, or sublicensing of this software to any third party other than the original repository is strictly prohibited.
 
 See the [LICENSE](./LICENSE) file for full details.
 
