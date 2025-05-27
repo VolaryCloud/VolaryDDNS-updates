@@ -1,6 +1,6 @@
 # VolaryDDNS Update Script
 
-![VolaryDDNS logo](https://static-content.volary.cloud/images/logo-long.png)
+![VolaryDDNS logo](https://static-content.volary.cloud/images/logo-long.png)    
 
 The **VolaryDDNS update script** is a lightweight, secure client-side tool designed to automate the process of keeping your dynamic DNS records current. It continuously monitors your device’s public IP address and updates your VolaryDDNS subdomain whenever the IP changes. This ensures your domain always resolves correctly, even when your ISP changes your IP.
 
