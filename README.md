@@ -44,7 +44,7 @@ This project is licensed under a custom license.
 
 You are permitted to use and modify the script for personal, non-commercial purposes only. Redistribution, publishing, or sublicensing of this software to any third party other than the original repository is strictly prohibited.
 
-See the [LICENSE](./LICENSE) file for full details.
+See the [LICENSE](https://github.com/VolaryCloud/VolaryDDNS-updates/blob/main/LICENSE) file for full details.
 
 ---
 
