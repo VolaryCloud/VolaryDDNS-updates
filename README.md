@@ -62,4 +62,4 @@ Thanks to everyone who has contributed to VolaryDDNS and helped improve this upd
 
 ---
 
-Made with ❤️ by Phillip Rødseth — [philliphat.com](https://philliphat.coom)
+Made with ❤️ by Phillip Rødseth — [philliphat.com](https://philliphat.com)
